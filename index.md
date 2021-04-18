@@ -14,7 +14,7 @@ Digitalization and its effect on country ecoonomic growth is a widely discussed 
 ### Time series analysis
 
 Three reports were written.
-- Analysis of global carbon budget
+- Analysis of global carbon budget (see [here](https://drive.google.com/file/d/1xCMaEqdBvy_JfNY_qvkx63szHQ74-T1Y/view?usp=sharing)).
 
 
 ### Microeconometrics
