@@ -6,3 +6,11 @@ description: [Economics & Finance | Data Science]
 google_analytics: [G-SGFRRVR6H2]
 google_analytics: [UA-194942531-1]
 
+search: true
+
+author:
+  name   : "First Lastname"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+
+
