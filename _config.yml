@@ -10,6 +10,7 @@ search: true
 
 #logo: [oskarsniks.github.io/portrait.jpeg]
 #logo: [portrait.jpeg]
-logo: [/main/root/ONM.PNG]
+#logo: [/main/root/ONM.PNG]
+logo: [/main/ONM.PNG]
 
 
