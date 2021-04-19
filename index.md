@@ -1,6 +1,6 @@
 # Hi!
 
-Welcome to my GitHub portfolio! Here you can find some examples of my work during my [MSc in Economics & Finance studies](https://lusem.lu.se/study/masters/programmes/economics/overview) at [LUSEM](https://www.lusem.lu.se/) and (in a while you will see) some exciting projects that I am currently working on.
+Welcome to my GitHub portfolio! Here you can find some examples of my work during my [MSc in Economics & Finance](https://lusem.lu.se/study/masters/programmes/economics/overview) studies at [LUSEM](https://www.lusem.lu.se/) and (in a while you will see) some exciting projects that I am currently working on.
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/oskarsniksmalnieks/) for job opportunities or interesting projects that you want me to participate in.
 
