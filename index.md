@@ -9,7 +9,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/oskarsniksmaln
 ## LUSEM project examples
 In the reminder of this section, you can see a display of some group/individual project work that I have done during my studies. At the moment it consists of 3 parts.
  
-### My first master thesis
+### My first master's thesis
 
 Digitalization and its effect on country economic growth is a widely discussed topic, however, academic level research is less common. In [my first master's thesis](https://lup.lub.lu.se/student-papers/search/publication/9026750) I investigate the aforementioned link and find that the true effect of ICT is still yet to come. (STATA code is available upon request.)
 
