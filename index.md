@@ -23,7 +23,7 @@ The following reports were written for [Time Series Analysis (NEKN34)](https://w
 
 ### Microeconometrics
 
-To be added.
+Course description is [here](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NEKN33). To be added.
 
 ### Financial Valuation and Risk Management
 
