@@ -27,7 +27,7 @@ Course description is [here](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NEK
 
 ### Financial Valuation and Risk Management
 
-Course description is [here](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NEKN83). To be added.
+[The course](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NEKN83) mainly focused on PD, LGD and VaR, ES simulations/analysis. [The first report (out of six)](https://drive.google.com/file/d/1oNo6UT5lt_oIwZ8G-QTQFDdnXSG_W2g8/view?usp=sharing)  focused simple parametric methods to estimate VaR.
 
 ---
 
