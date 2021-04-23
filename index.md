@@ -33,7 +33,7 @@ Course description is [here](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NEK
 
 ## Other projects
 
-Whilst the former section addresses projects that are mostly of academic nature, here I elaborate on some of my recent/current projects, including some interesting questions that I may write a blog post about (see [here](oskarsniks.blogspot.com)).
+Whilst the former section addresses projects that are mostly of academic nature, here I elaborate on some of my recent/current projects, including some interesting questions that I may write a blog post about (see [here](https://www.oskarsniks.blogspot.com)).
 
 
 ### My second master's thesis
