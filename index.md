@@ -3,7 +3,6 @@
 Welcome to my GitHub portfolio! Here you can find some examples of my work during my [MSc in Economics & Finance](https://lusem.lu.se/study/masters/programmes/economics/overview) studies at [LUSEM](https://www.lusem.lu.se/) and (in a while you will see) some exciting projects that I am currently working on.
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/oskarsniksmalnieks/) for job opportunities or interesting projects that you want me to participate in.
-
  ---
  
 ## LUSEM project examples
@@ -33,7 +32,8 @@ Course description is [here](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NEK
 
 ## Other projects
 
-Whilst the former section addresses projects that are mostly of academic nature, here I elaborate on some of my recent/current projects, including some interesting questions that I may write a blog post about.
+Whilst the former section addresses projects that are mostly of academic nature, here I elaborate on some of my recent/current projects, including some interesting questions that I may write a blog post about (see [here](oskarsniks.blogspot.com)).
+
 
 ### My second master's thesis
 
