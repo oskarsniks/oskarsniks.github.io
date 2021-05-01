@@ -42,7 +42,7 @@ As my program consists of two smaller thesis, my last one is on corruption's eff
 
 ### Debtor risk assessment
 
-Debtor PD calculation is an interesting endeavour, which I am currently taking. Stay tuned!
+Debtor PD calculation can be a complex project. Stay tuned for more.
 
 ### Forecasting Latvia's economic performance
 
