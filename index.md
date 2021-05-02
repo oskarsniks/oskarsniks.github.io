@@ -11,7 +11,7 @@ In the reminder of this section, you can see a display of some group/individual 
  
 ### My first master's thesis
 
-Digitalization and its effect on country economic growth is a widely discussed topic, however, academic level research is less common. In [my first master's thesis](https://lup.lub.lu.se/student-papers/search/publication/9026750) I investigate the aforementioned link and find that the true effect of ICT is still yet to come. (STATA code is available upon request.)
+(My program requires writting two Master's thesis, one per each academic year) Digitalization and its effect on country economic growth is a widely discussed topic, however, academic level research is less common. In [my first master's thesis](https://lup.lub.lu.se/student-papers/search/publication/9026750) I investigate the aforementioned link and find that the true effect of ICT is still yet to come. (STATA code is available upon request.)
 
 ### Time series analysis
 
@@ -38,7 +38,7 @@ Whilst the former section addresses projects that are mostly of academic nature,
 
 ### My second master's thesis
 
-As my program consists of two smaller thesis, my last one is on corruption's effect on subjective well-being. 
+At the moment I am writting a thesis on corruption's effect on subjective well-being. 
 
 ### Debtor risk assessment
 
