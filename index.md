@@ -35,7 +35,7 @@ The following reports were written for [Time Series Analysis (NEKN34)](https://w
 
 ### Advanced public economics
 
-What is the optimal tax rate? When should govt intervene? Why should we care about corruption? [This course](kursplaner.lu.se/pdf/kurs/en/NEKP51) discusses just that. This was not only my most favourite course but it also served as the basis for my second master's thesis.
+What is the optimal tax rate? When should govt intervene? Why should we care about corruption? [This course](http://kursplaner.lu.se/pdf/kurs/en/NEKP51) discusses just that. This was not only my most favourite course but it also served as the basis for my second master's thesis.
 
 ---
 
