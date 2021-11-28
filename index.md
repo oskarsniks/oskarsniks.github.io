@@ -7,11 +7,11 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/oskarsniksmaln
  ---
  
 ## LUSEM project examples
-In the remainder of this section, you can see a display of some group/individual project work that I have done during my studies. At the moment it consists of 4 parts.
+In the remainder of this section, you can see a display of some group/individual project work that I have done during my studies. At the moment it consists of 6 parts.
 
 ### My second master's thesis
 
-_(My program requires writing two Master's thesis, one per each academic year)_ Corruption has been a widely discussed and analysed topic for decades. However, the results stemming from research on its effect are mixed and highly volatile, leading to a debate that it may be beneficial to the economy and society. [The thesis](https://lup.lub.lu.se/student-papers/search/publication/9054024) puts this to a test with a focus on Europe during 2005-2019.
+_(My program required writing two Master's theses, one per each academic year)_ Corruption has been a widely discussed and analysed topic for decades. However, the results stemming from research on its effect are mixed and highly volatile, leading to a debate that it may be beneficial to the economy and society. [The thesis](https://lup.lub.lu.se/student-papers/search/publication/9054024) puts this to a test with a focus on Europe during 2005-2019.
 
 ### My first master's thesis
 
@@ -29,9 +29,13 @@ The following reports were written for [Time Series Analysis (NEKN34)](https://w
 
 [Microeconometrics](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NEKN33) was a highly empirical and research-focused course. Research design, causality, IVs and some other applied tools were discussed and replicated.
 
-### Financial Valuation and Risk Management
+### Financial valuation and risk management
 
 [The course](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NEKN83) mainly focused on PD, LGD and VaR, ES simulations/analysis. [The first report (out of six)](https://drive.google.com/file/d/1oNo6UT5lt_oIwZ8G-QTQFDdnXSG_W2g8/view?usp=sharing)  focused on simple parametric methods to estimate VaR.
+
+### Advanced public economics
+
+What is the optimal tax rate? When should govt intervene? Why should we care about corruption? [This course](kursplaner.lu.se/pdf/kurs/en/NEKP51) discusses just that. This was not only my most favourite course but it also served as the basis for my second master's thesis.
 
 ---
 
