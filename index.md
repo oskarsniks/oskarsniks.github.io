@@ -11,7 +11,7 @@ In the remainder of this section, you can see a display of some group/individual
  
  ### My second master's thesis
  
- (My program requires writing two Master's thesis, one per each academic year) Corruption has been a widely discussed and analysed topic for decades. However, the results stemming from research on its effect are mixed and highly volatile, leading to a debate that it may be beneficial to the economy and society. [The thesis](https://lup.lub.lu.se/student-papers/search/publication/9054024) puts this to a test with a focus on Europe during 2005-2019.
+_(My program requires writing two Master's thesis, one per each academic year)_ Corruption has been a widely discussed and analysed topic for decades. However, the results stemming from research on its effect are mixed and highly volatile, leading to a debate that it may be beneficial to the economy and society. [The thesis](https://lup.lub.lu.se/student-papers/search/publication/9054024) puts this to a test with a focus on Europe during 2005-2019.
  
 ### My first master's thesis
 
