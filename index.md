@@ -19,7 +19,7 @@ Digitalization and its effect on country economic growth is a widely discussed t
 
 ### Time series analysis
 
-The following reports were written for [Time Series Analysis (NEKN34)](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NEKN34) as a tool to learn some of the core methods in the field. All quantitative aspects were done in R.
+The following reports were written for [Time Series Analysis (NEKN34)](http://kursplaner.lu.se/pdf/kurs/en/NEKN34) as a tool to learn some of the core methods in the field. All quantitative aspects were done in R.
 
 - Analysis of global carbon budget (see [here](https://drive.google.com/file/d/1xCMaEqdBvy_JfNY_qvkx63szHQ74-T1Y/view?usp=sharing)). Is the absorption rate of carbon dioxide slowing down? This report discusses that. _Learned methods/models: ARIMA, ACF and PACF tests._
 - Replication of Tse (1998) and Tsui and Ho (2004) (see [here](https://drive.google.com/file/d/1IEH1nK8cX9eEfR-TSr7d-BWtvsFt705q/view?usp=sharing)) This report is focused on replicating the aforementioned papers and their findings on conditional volatility. _Learned methods/models: GARCH (and similar extensions)._
@@ -27,11 +27,11 @@ The following reports were written for [Time Series Analysis (NEKN34)](https://w
 
 ### Microeconometrics
 
-[Microeconometrics](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NEKN33) was a highly empirical and research-focused course. Research design, causality, IVs and some other applied tools were discussed and replicated.
+[Microeconometrics](http://kursplaner.lu.se/pdf/kurs/en/NEKN33) was a highly empirical and research-focused course. Research design, causality, IVs and some other applied tools were discussed and replicated.
 
 ### Financial valuation and risk management
 
-[The course](https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NEKN83) mainly focused on PD, LGD and VaR, ES simulations/analysis. [The first report (out of six)](https://drive.google.com/file/d/1oNo6UT5lt_oIwZ8G-QTQFDdnXSG_W2g8/view?usp=sharing)  focused on simple parametric methods to estimate VaR.
+[The course](http://kursplaner.lu.se/pdf/kurs/en/NEKN83) mainly focused on PD, LGD and VaR, ES simulations/analysis. [The first report (out of six)](https://drive.google.com/file/d/1oNo6UT5lt_oIwZ8G-QTQFDdnXSG_W2g8/view?usp=sharing)  focused on simple parametric methods to estimate VaR.
 
 ### Advanced public economics
 
