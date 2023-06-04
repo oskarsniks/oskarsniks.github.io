@@ -4,8 +4,8 @@ Welcome to my GitHub portfolio! Here you can find some examples of my work durin
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/oskarsniksmalnieks/) for job opportunities or interesting projects that you want me to participate in. Also, my LinkedIn page is usually up to date with my latest certificates and such.
 
-_Recent updates:_
-May 2023: I have been offered a lecturer position for a course at the University of Latvia this Autumn. Very excited!
+### Recent updates:
+May 2023. I have been offered a lecturer position for a course at the University of Latvia this Autumn. Very excited!
 
  ---
  
@@ -46,10 +46,10 @@ What is the optimal tax rate? When should govt intervene? Why should we care abo
 
 Whilst the former section addresses projects that are mostly academic, here I elaborate on some of my recent/current projects, including some interesting questions that I may write a blog post about (see [here](https://www.oskarsniks.blogspot.com)).
 
-### Debtor risk assessment
+### An article/online video on the pension system in Latvia
 
-Debtor PD calculation can be a complex project. Stay tuned for more.
+If I had received a euro every time I discovered that a friend or colleague had no knowledge about their pension plan (or as in the worst case, encountered a 24-year-old with a plan for pre-retirees), I would have been able to buy myself a nice bicycle. This is meant to address that issue. TBA Aug 2023.
 
 ### Forecasting Latvia's economic performance
 
-This idea aims to connect to World Bank and Eurostat database API to create a model that without any manual work updates data to calculate GDP forecasts.
+This idea aims to connect to World Bank and Eurostat database API to create a model that without any manual work updates data to calculate GDP forecasts. TBA unknown.
