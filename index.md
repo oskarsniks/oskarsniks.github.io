@@ -6,6 +6,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/oskarsniksmaln
 
 ### Recent updates:
 Nov 2023. Not only I got a new job, but also the aforementioned course has started with 17 (hopefully) curious minds in it! 
+
 May 2023. I have been offered a lecturer position for a course at the University of Latvia this Autumn. Very excited!
 
  ---
