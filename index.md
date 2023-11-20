@@ -5,6 +5,7 @@ Welcome to my GitHub portfolio! Here you can find some examples of my work durin
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/oskarsniksmalnieks/) for job opportunities or interesting projects that you want me to participate in. Also, my LinkedIn page is usually up to date with my latest certificates and such.
 
 ### Recent updates:
+Nov 2023. Not only I got a new job, but also the aforementioned course has started with 17 (hopefully) curious minds in it! 
 May 2023. I have been offered a lecturer position for a course at the University of Latvia this Autumn. Very excited!
 
  ---
